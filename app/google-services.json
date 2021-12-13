@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071502757207",
+    "project_id": "fortune-wheel-d2e01",
+    "storage_bucket": "fortune-wheel-d2e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071502757207:android:322cecefcc195ee5380212",
+        "android_client_info": {
+          "package_name": "com.example.fortunewheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071502757207-i092mvkjjah9m6cm8ek4qg710u4jofc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQoAj98biLLP6yoLyWiKXRTrIXMYOiRm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071502757207-i092mvkjjah9m6cm8ek4qg710u4jofc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

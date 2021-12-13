@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fortune Wheel</string>
+    <string-array
+        name="wholeList">
+        <item>firstWheelList</item>
+        <item>secondWheelList</item>
+        <item>thirdWheelList</item>
+        <item>forthWheel</item>
+        <item>fifthWheel</item>
+        <item>sixthWheel</item>
+        <item>seventhWheel</item>
+        <item>eightWheel</item>
+        <item>ninethWheel</item>
+        <item>tenthWheel</item>
+    </string-array>
+    <string-array
+        name="sectorsList">
+        <item>firstSector</item>
+        <item>secondSector</item>
+        <item>thirdSector</item>
+        <item>forthSector</item>
+        <item>fifthSector</item>
+        <item>sixthSector</item>
+        <item>seventhSector</item>
+        <item>eightSector</item>
+        <item>ninethSector</item>
+        <item>tenthSector</item>
+    </string-array>
+</resources>
